@@ -1,0 +1,30 @@
+{
+  "name": "easydig",
+  "version": "0.0.1b",
+  "description": "easier diggest tool for article content",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cyrianax/easydig.git"
+  },
+  "keywords": [
+    "html",
+    "to",
+    "md"
+  ],
+  "author": "excella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyrianax/easydig/issues"
+  },
+  "homepage": "https://github.com/cyrianax/easydig#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "nodejieba": "^2.2.6",
+    "turndown": "^4.0.2"
+  },
+  "devDependencies": {}
+}
