@@ -6,7 +6,7 @@
 ## 简述
 **Easydig**是一个用于采集指定Url下的文章内容，并进行简单处理（去除无用标签、转换标准Markdown格式、分析内容抽取关键词）的工具库
 
-在现阶段，初期版本的Easydig仅仅基于[Turndown](https://github.com/domchristie/turndown)、[NodeJieba](https://github.com/yanyiwu/nodejieba)等库做了简单的封装。
+在现阶段，初期版本的Easydig仅仅花费了半天时间，基于[Turndown](https://github.com/domchristie/turndown)、[NodeJieba](https://github.com/yanyiwu/nodejieba)等库做了简单的封装。
 
 在接下来的时间里，我想我会逐步完善它，并将学习NLP获得的粗浅知识应用进去。
 
