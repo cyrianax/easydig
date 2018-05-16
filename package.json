@@ -23,6 +23,8 @@
   "homepage": "https://github.com/cyrianax/easydig#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.10",
     "nodejieba": "^2.2.6",
     "turndown": "^4.0.2"
   },
