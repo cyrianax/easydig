@@ -8,7 +8,7 @@
 
 在现阶段，当前版本的Easydig内部逻辑比较简单，仅仅花费了不多的时间，基于[Turndown](https://github.com/domchristie/turndown)、[NodeJieba](https://github.com/yanyiwu/nodejieba)等库做了简单的封装。
 
-在接下来的时间里，我想我会逐步完善它，并将学习NLP获得的粗浅知识应用进去。
+在接下来的时间里，我想我会逐步完善它，并将学习NLP获得的粗浅知识，填到这个坑里面。
 
 ~~嗯，挖坑无止境，填坑看心情~~
 
