@@ -1,6 +1,6 @@
 {
   "name": "easydig",
-  "version": "0.0.1b",
+  "version": "0.0.11",
   "description": "easier diggest tool for article content",
   "main": "lib/index.js",
   "scripts": {

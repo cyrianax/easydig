@@ -38,7 +38,7 @@ digger.dig('http://...', {
 ```
 
 ## 方法
-#### dig(url, [options])
+### dig(url, [options])
 dig方法用于采集远程地址的文章内容。它接收一个url地址和可选的options设置，并返回一个Promise
 ```javascript
 digger.dig('https://github.com/cyrianax/easydig/', {
@@ -69,7 +69,7 @@ digger.dig('https://github.com/cyrianax/easydig/', {
 })
 ```
 
-#### convert(html, [options])
+### convert(html, [options])
 convert方法用于直接处理一个html片段。它接收一个html片段和可选的options设置，并返回一个结果集，其结构与dig方法的成功返回的result对象相同
 ```javascript
 let content = digger.convert(`
